@@ -21,7 +21,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flexdinesh/npm-module-boilerplate.git"
+    "url": "git+https://github.com/Mailoop/js-toolbox.git"
   },
   "keywords": [
     "boilerplate",
@@ -33,9 +33,9 @@
   "author": "Dinesh Pandiyan <flexdinesh@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/flexdinesh/npm-module-boilerplate/issues"
+    "url": "https://github.com/Mailoop/js-toolbox/issues"
   },
-  "homepage": "https://github.com/flexdinesh/npm-module-boilerplate#readme",
+  "homepage": "https://github.com/Mailoop/js-toolbox#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.1",
