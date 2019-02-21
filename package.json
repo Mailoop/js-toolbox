@@ -52,6 +52,7 @@
     "eslint-plugin-react": "^7.4.0",
     "istanbul": "^1.0.0-alpha",
     "mocha": "^5.0.0",
+    "np": "^4.0.2",
     "rimraf": "^2.6.2"
   },
   "directories": {
