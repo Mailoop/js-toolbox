@@ -1,6 +1,6 @@
 {
   "name": "npm-module-boilerplate",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Boilerplate for npm modules with ES6 features and syntax",
   "main": "./lib/index.js",
   "scripts": {
@@ -30,7 +30,7 @@
     "node",
     "javascript"
   ],
-  "author": "Dinesh Pandiyan <flexdinesh@gmail.com>",
+  "author": "Mailoop Tech Team <edouard.etancelin@mailoop.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Mailoop/js-toolbox/issues"
