@@ -11,10 +11,13 @@ export const logMapper = () => (elm) => { console.log(`console.log : ${elm}`); r
 
 export const arr = (size, value = 0) => Array.from(Array(size), () => value);
 
-export const arithmeticSuite = (size, start = 0, step = 1) => arr(size).map((val, idx) => start + (step * idx));
-export const geoSuite = (size, start = 1, step = 2) => arr(size).map((val, idx) => start * (step ** idx));
+export const arithmeticSuite = (size, start = 0, step = 1) =>
+  arr(size).map((val, idx) => start + (step * idx));
 
-export const integerSuite = (size, start = 0) => arr(size).map((val, idx) => start + (step * idx));
+export const geoSuite = (size, start = 1, step = 2) =>
+  arr(size).map((val, idx) => start * (step ** idx));
+
+export const integerSuite = (size, start = 0) => arr(size).map((val, idx) => start + idx);
 
 
 export const sumBy = (toGroup, toCount) => (acc, val) => {

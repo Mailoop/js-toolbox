@@ -1,6 +1,6 @@
 {
   "name": "@mailoop/js-toolbox",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "Boilerplate for npm modules with ES6 features and syntax",
   "main": "./lib/index.js",
   "scripts": {
@@ -24,7 +24,6 @@
     "url": "git+https://github.com/Mailoop/js-toolbox.git"
   },
   "keywords": [
-    "boilerplate",
     "npm",
     "module",
     "node",
