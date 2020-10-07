@@ -58,5 +58,8 @@
   "directories": {
     "example": "examples",
     "test": "test"
+  },
+  "dependencies": {
+    "ramda": "^0.27.1"
   }
 }
